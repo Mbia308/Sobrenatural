@@ -1,10 +1,10 @@
 body {
-    color:white;
-    background: black;  
+    color: white;
+    background: black;
     margin: 2px;
 }
 
-header{
+header {
     border-bottom: solid 1px rgb(118, 118, 118);
     padding: 12px;
     font-size: 33px;
@@ -12,5 +12,8 @@ header{
 }
 
 section {
-justify-content: center;
+    background: rgb(0, 0, 0);
+    padding-bottom: 60px;
+    padding-top: 60px;
+    justify-content: center;
 }
