@@ -15,5 +15,6 @@ section {
     background: rgb(81, 73, 151);
     padding-bottom: 60px;
     padding-top: 60px;
+    display: contents;
     justify-content: center;
 }
